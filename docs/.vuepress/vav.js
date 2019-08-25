@@ -1,33 +1,40 @@
 module.exports=[
     {
-        text: '前端基础', link: '/jichu/' ,
+        text: 'web前端', link: '/web/' ,
     },
     {
-        text: '面试宝典',
+        text: '报错锦集',
         items:[
-            {text:'初级开发篇',link:'/baodian/zero/'},
-            {text:'中高进阶篇',link:'/baodian/hight/'},
+            {text:'语言篇',link:'/error/language/'},
+            {text:'算法篇',link:'/error/arithemetic/'},
+            {text:'工具篇',link:'/error/tools/'},
+            {text:'框架篇',link:'/error/frame/'},
         ],
     },
+     {
+        text: '诗和远方', link: '/poem/',
+    },
     {
-        text: '工具', 
+        text: '工具',
         items:[
             {
                 text:'在线编辑',
                 items:[
                     {text:'图片压缩',link:'https://tinypng.com/'},
-                ], 
+                ],
             },
             {
                 text:'在线服务',
                 items:[
                     {text:'阿里云',link:'https://www.aliyun.com/'},
                     {text:'腾讯云',link:'https://cloud.tencent.com/'},
-                ], 
+                ],
             },
         ],
     },
     {
-        text: '微博', link: 'https://baidu.com'
-    }
+        text: '关于我',link: '/about/', 
+    },
+    
+
 ]

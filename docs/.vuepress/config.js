@@ -1,7 +1,8 @@
  module.exports = {
   title: 'Ambrose\'s Blog',
-  description: '我的博客',
+  description: '人生亦是一场孤独的修行。---by AmbroseX',
   port:'7777',
+  plugins:['@vuepress/back-to-top','@vuepress/pwa'],
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/images/ico.png' }],
     ['link',{rel:'stylesheet',href:'/css/style.css'}],
@@ -23,5 +24,13 @@
     search:true,
     searchMaxSuggestions:10,
     lastUpdated:'Last Updated',
+    repo:'vuejs/vuepress',
+    docsDir:'docs',
+    docsBrannch:'master',
+    editLinks:true,
+    edutLinkText:'编辑文档',
+    serviceWorker:{
+      updatePopup:true,
+    },
   }
 };

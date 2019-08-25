@@ -3,25 +3,25 @@ home: true
 
 heroImage: /images/photo.jpg
 
-actionText: 快速上手 →
+actionText: 快速建站 →
 
-actionLink: guide.html
+actionLink: http://caibaojian.com/vuepress/guide/
 
 features:
 
-- title: 简洁至上
+- title: 思维
  
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+  details: 在算法中学习解决问题的方法，在生活中学习做人的态度。
 
-- title: Vue驱动
+- title: 实践
 
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
+  details: 实践是检验真理的唯一标准，在实践中不断积累经验，激活得学习的动力。
 
-- title: 高性能
+- title: 创新
 
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+  details: 技术改变世界，创新凝聚价值。
 
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: AmbroseX | Copyright © 2019-present 徐炯
 ---
 
 :tada: :100:

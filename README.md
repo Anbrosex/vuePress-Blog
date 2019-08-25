@@ -1,1 +1,1 @@
-命令行运行：bash deploy.sh将静态文件传到GitHub page上。
+命令行运行：npm run d  将静态文件传到GitHub page上。
