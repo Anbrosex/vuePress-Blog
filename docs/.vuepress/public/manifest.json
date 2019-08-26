@@ -1,0 +1,14 @@
+{
+    "name": "Ambrose",
+    "short_name": "X",
+    "description": "Ambrose's Blog",
+    "lang": "zh-CN",
+    "start_url": "index.html",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/favicon.ico"
+      }
+    ]
+    
+  }

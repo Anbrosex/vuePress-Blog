@@ -19,23 +19,23 @@ features:
 
 - title: 创新
 
-  details: 技术改变世界，创新凝聚价值。
+  details: 若无某种大胆放肆的猜想，一般是不可能有知识的进展。
 
 footer: AmbroseX | Copyright © 2019-present 徐炯
 ---
 
 :tada: :100:
 
-::: tip 提示
-this is a tip
+::: tip 坚持
+失败只有一种，那就是半途而废。
 :::
 
-::: warning 注意
-this is a tip
+::: warning 遗忘
+明天的希望，让我们忘了今天的痛苦。
 :::
 
-::: danger 警告
-this is a tip
+::: danger 向往
+心，若是没有栖息的地方，到哪里都是流浪。
 :::
 
 ``` js
@@ -43,3 +43,8 @@ this is a tip
 	console.log('Hello world')
 </script>
 ```
+
+
+::: tip
+点击会出现爱心哦
+:::

@@ -35,6 +35,9 @@ module.exports=[
     {
         text: '关于我',link: '/about/', 
     },
+    {
+        text: '标签云',link: '/tags/', tags:true
+    },
     
 
 ]

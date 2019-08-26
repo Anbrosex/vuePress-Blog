@@ -17,7 +17,9 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.3",
+    "@vuepress/plugin-nprogress": "^1.0.0-rc.1",
     "@vuepress/plugin-pwa": "^1.0.3",
+    "@vuepress/theme-default": "^1.0.0-rc.1",
     "vuepress": "^1.0.3"
   },
   "dependencies": {
